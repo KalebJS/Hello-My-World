@@ -1,0 +1,2 @@
+class IncorrectAssumption (Exception) :
+    pass
